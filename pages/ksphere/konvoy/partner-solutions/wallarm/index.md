@@ -2,7 +2,7 @@
 layout: layout.pug
 navigationTitle: Wallarm
 title: Wallarm
-excerpt: Wallarm the Next Generation Web Applicaton Firewall
+excerpt: Wallarm the Advanced Cloud-Native Web Applicaton Firewall
 menuWeight: 150
 category: Networking and Security
 image: img/wallarm.png
